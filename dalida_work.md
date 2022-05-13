@@ -1,7 +1,8 @@
 Projet 1 : DALIDA 
-
-Itération # A.1.a : 
-Analyse : Who is Dalida?
+------------------------------
+ A.1.a : Analyse 
+---------------------------------------
+  Who is Dalida?
 
 Is a born 17 January 1933 in cairo ,capital for Egypt
 Is an Italian-French singer and actress . A polyglot artist, she understood five languages ​​and interpreted her songs in eleven languages, namely German, Egyptian Arabic, English, Lebanese Arabic, Spanish, French, Greek, Hebrew, Italian, Japanese and Dutch.
