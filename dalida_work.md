@@ -3,7 +3,7 @@ Projet 1 : DALIDA
  A.1.a : Analyse 
 ---------------------------------------
   Who is Dalida?
-
+  --------------
 Is a born 17 January 1933 in cairo ,capital for Egypt
 Is an Italian-French singer and actress . A polyglot artist, she understood five languages ​​and interpreted her songs in eleven languages, namely German, Egyptian Arabic, English, Lebanese Arabic, Spanish, French, Greek, Hebrew, Italian, Japanese and Dutch.
 
@@ -12,7 +12,7 @@ After several million records sold around the world and various international to
  A.1.b :Visual identity 
  ---------------------------------------------
   What did Dalida do?
-
+  -------------------
 First an actress, she made her debut in the film A Glass and a Cigarette by Niazi Mustapha in 1955, shot in the Valley of the Kings, in the tombs of the pharaohs. One year later, having signed with the Barclay record company, Dalida achieved her first success as a singer with Bambino. Following which, she became the most important seller of records in France between 1957 and 1961. She will remain a major artist in this country.
 
 In addition, she enjoyed international success in 1959. Indeed, throughout her career and on several occasions, she ranked in many countries, whether in Europe, Latin America, North America, or still in Asia. Among her greatest sales successes: "Le jour où la pluie viendra", "Gigi l'amoroso", "J'attendrai".
@@ -49,3 +49,12 @@ Gallery.
 Contact form.
 
 Back office page.
+
+A.2 : Planche de tendance
+-------------------------------------
+Moodboard
+-------------------------------------
+Inspiration
+-------------------------------------
+A.3 Design System
+-------------------------------------
