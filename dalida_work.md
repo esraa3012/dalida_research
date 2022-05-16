@@ -52,8 +52,10 @@ Back office page.
 
 A.3 : Planche de tendance
 -------------------------------------
+
 Moodboard
--------------------------------------
+![Moodboard](Capture web_16-5-2022_8501_www.figma.com.jpeg)
+
 Inspiration
 -------------------------------------
 A.4 Design System
