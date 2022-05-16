@@ -67,7 +67,7 @@ A.5 design for the header
 -------------------------------------
 ![design for the header](Desktop-Header.png)
 
-Desktop - Header-Active
+Desktop - Header - Active
 
 ![design for the header](Desktop-Header-Active.png)
 
@@ -90,5 +90,37 @@ A.8 design for the footer
 Desktop - Footer - Active
 
 ![design for the footer](Desktop-Footer-Active.png)
+
 A.9 Responsive
 --------------------------------------
+Mobile - Header
+
+![Mobile-Header](Mobile-Header.png)
+
+Mobile - Header - Menu
+
+![Mobile-Header-Menu](Mobile-Header-Menu.png)
+
+Mobile - Header - Menu - Active
+
+![Mobile-Header-Menu-Active](Mobile-Header-Menu-Active.png)
+
+WireFrame - Main
+
+![WireFrame-Main](WireFrame-Main.png)
+
+Mobile - Main
+
+![Mobile-Main](Mobile-Main.png)
+
+Mobile - Main - Active
+
+![Mobile-Main-Active](Mobile-Main-Active.png)
+
+Mobile - Footer
+
+![Mobile-Footer](Mobile-Footer.png)
+
+Mobile - Footer - Active
+
+![Mobile-Footer-Active](Mobile-Footer-Active.png)
