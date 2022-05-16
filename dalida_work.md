@@ -54,7 +54,7 @@ A.3 : Planche de tendance
 -------------------------------------
 
 Moodboard
-![Moodboard](Moodboard.png)
+![Moodboard](images/Moodboard.png)
 
 Inspiration
 ![Inspiration](Inspiration.png)
