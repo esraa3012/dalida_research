@@ -105,9 +105,9 @@ Mobile - Header - Menu - Active
 
 ![Mobile-Header-Menu-Active](Mobile-Header-Menu-Active.png)
 
-WireFrame - Main
+WireFrame - Main - Mobile
 
-![WireFrame-Main](WireFrame-Main.png)
+![WireFrame-Main-Mobile](WireFrame-Main-Mobile.png)
 
 Mobile - Main
 
