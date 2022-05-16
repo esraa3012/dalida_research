@@ -61,6 +61,8 @@ Inspiration
 
 A.4 Design System
 -------------------------------------
+![Moodboard](designsystem.jpeg)
+
 A.5 design for the header
 -------------------------------------
 A.6 wireframe for the main
