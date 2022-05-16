@@ -54,7 +54,7 @@ A.3 : Planche de tendance
 -------------------------------------
 
 Moodboard
-![Moodboard](Capture web_16-5-2022_8501_www.figma.com.jpeg)
+![Moodboard](C:\Users\Acs\Desktop\dalida_research\moodboard.jpeg)
 
 Inspiration
 -------------------------------------
