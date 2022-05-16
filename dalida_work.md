@@ -57,14 +57,20 @@ Moodboard
 ![Moodboard](moodboard.jpeg)
 
 Inspiration
-![Moodboard](inspiration.jpeg)
+![Inspiration](inspiration.jpeg)
 
 A.4 Design System
 -------------------------------------
-![Moodboard](designsystem.jpeg)
+![Design System](designsystem.jpeg)
 
 A.5 design for the header
 -------------------------------------
+![Header](header.jpeg)
+
+Header - Active
+
+![Header - Active](header-active.jpeg)
+
 A.6 wireframe for the main
 ------------------------------------
 A.7 design for the main
