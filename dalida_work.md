@@ -73,9 +73,22 @@ Desktop - Header-Active
 
 A.6 wireframe for the main
 ------------------------------------
+![wireframe for the main](WireFrame-Main.png)
+
 A.7 design for the main
 --------------------------------------
+![design for the main](Desktop-Main.png)
+
+Desktop - Main - Active
+
+![design for the header](Desktop-Main-Active.png)
+
 A.8 design for the footer
 -------------------------------------
+![design for the footer](Desktop-Footer.png)
+
+Desktop - Footer - Active
+
+![design for the footer](Desktop-Footer-Active.png)
 A.9 Responsive
 --------------------------------------
