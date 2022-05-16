@@ -61,15 +61,15 @@ Inspiration
 
 A.4 Design System
 -------------------------------------
-![Design System](Design System.png)
+![Design System](DesignSystem.png)
 
 A.5 design for the header
 -------------------------------------
-![Header](Desktop - Header.png)
+![design for the header](Desktop-Header.png)
 
 Desktop - Header-Active
 
-![Header - Active](Desktop - Header-Active.png)
+![design for the header](Desktop-Header-Active.png)
 
 A.6 wireframe for the main
 ------------------------------------
