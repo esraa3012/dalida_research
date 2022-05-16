@@ -54,7 +54,7 @@ A.3 : Planche de tendance
 -------------------------------------
 
 Moodboard
-![Moodboard](C:\Users\Acs\Desktop\dalida_research\moodboard.jpeg)
+![Moodboard](moodboard.jpeg)
 
 Inspiration
 -------------------------------------
