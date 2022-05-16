@@ -57,7 +57,8 @@ Moodboard
 ![Moodboard](moodboard.jpeg)
 
 Inspiration
--------------------------------------
+![Moodboard](inspiration.jpeg)
+
 A.4 Design System
 -------------------------------------
 A.5 design for the header
