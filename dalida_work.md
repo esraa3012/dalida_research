@@ -57,70 +57,70 @@ Moodboard
 ![Moodboard](images/Moodboard.png)
 
 Inspiration
-![Inspiration](Inspiration.png)
+![Inspiration](images/Inspiration.png)
 
 A.4 Design System
 -------------------------------------
-![Design System](DesignSystem.png)
+![Design System](images/DesignSystem.png)
 
 A.5 design for the header
 -------------------------------------
-![design for the header](Desktop-Header.png)
+![design for the header](images/Desktop-Header.png)
 
 Desktop - Header - Active
 
-![design for the header](Desktop-Header-Active.png)
+![design for the header](images/Desktop-Header-Active.png)
 
 A.6 wireframe for the main
 ------------------------------------
-![wireframe for the main](WireFrame-Main.png)
+![wireframe for the main](images/WireFrame-Main.png)
 
 A.7 design for the main
 --------------------------------------
-![design for the main](Desktop-Main.png)
+![design for the main](images/Desktop-Main.png)
 
 Desktop - Main - Active
 
-![design for the header](Desktop-Main-Active.png)
+![design for the header](images/Desktop-Main-Active.png)
 
 A.8 design for the footer
 -------------------------------------
-![design for the footer](Desktop-Footer.png)
+![design for the footer](images/Desktop-Footer.png)
 
 Desktop - Footer - Active
 
-![design for the footer](Desktop-Footer-Active.png)
+![design for the footer](images/Desktop-Footer-Active.png)
 
 A.9 Responsive
 --------------------------------------
 Mobile - Header
 
-![Mobile-Header](Mobile-Header.png)
+![Mobile-Header](images/Mobile-Header.png)
 
 Mobile - Header - Menu
 
-![Mobile-Header-Menu](Mobile-Header-Menu.png)
+![Mobile-Header-Menu](images/Mobile-Header-Menu.png)
 
 Mobile - Header - Menu - Active
 
-![Mobile-Header-Menu-Active](Mobile-Header-Menu-Active.png)
+![Mobile-Header-Menu-Active](images/Mobile-Header-Menu-Active.png)
 
 WireFrame - Main - Mobile
 
-![WireFrame-Main-Mobile](WireFrame-Main-Mobile.png)
+![WireFrame-Main-Mobile](images/WireFrame-Main-Mobile.png)
 
 Mobile - Main
 
-![Mobile-Main](Mobile-Main.png)
+![Mobile-Main](images/Mobile-Main.png)
 
 Mobile - Main - Active
 
-![Mobile-Main-Active](Mobile-Main-Active.png)
+![Mobile-Main-Active](images/Mobile-Main-Active.png)
 
 Mobile - Footer
 
-![Mobile-Footer](Mobile-Footer.png)
+![Mobile-Footer](images/Mobile-Footer.png)
 
 Mobile - Footer - Active
 
-![Mobile-Footer-Active](Mobile-Footer-Active.png)
+![Mobile-Footer-Active](images/Mobile-Footer-Active.png)
