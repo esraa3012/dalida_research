@@ -54,22 +54,22 @@ A.3 : Planche de tendance
 -------------------------------------
 
 Moodboard
-![Moodboard](moodboard.jpeg)
+![Moodboard](Moodboard.png)
 
 Inspiration
-![Inspiration](inspiration.jpeg)
+![Inspiration](Inspiration.png)
 
 A.4 Design System
 -------------------------------------
-![Design System](designsystem.jpeg)
+![Design System](Design System.png)
 
 A.5 design for the header
 -------------------------------------
-![Header](header.jpeg)
+![Header](Desktop - Header.png)
 
-Header - Active
+Desktop - Header-Active
 
-![Header - Active](header-active.jpeg)
+![Header - Active](Desktop - Header-Active.png)
 
 A.6 wireframe for the main
 ------------------------------------
