@@ -81,7 +81,7 @@ A.7 design for the main
 
 Desktop - Main - Active
 
-![design for the header](images/Desktop-Main-Active.png)
+![design for the main](images/Desktop-Main-Active.png)
 
 A.8 design for the footer
 -------------------------------------
